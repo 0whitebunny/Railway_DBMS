@@ -1,0 +1,14 @@
+In this DBMS, there are essential elements such as location of stations, passenger info(first name, middle name, last name, age, sex, email, phone number, identity(with or without pass, faculty or not), with discount or not), names of railway lines, number of compartments. Customer numbers are  zero to unlimited, stations numbers are two to unlimited, railway line numbers are one to unlimited, gender should be male, female or prefer not to tell, age should be zero to 123(if there is a high world record please let me know), compartment numbers are two to 10,  each name is one to 200 case.
+
+Data Requirements
+
+●Size of varchar for names
+●Size of INT and BIGINT for containing values
+●Size of double for containing ticket prices
+
+Functional Requirements
+●Data capacity due to number users in subway
+●Data accuracy for the location and train
+●Data update in time for current train location
+
+
